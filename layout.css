@@ -12,3 +12,9 @@ body{
 body{
     color: white;
 }
+
+iframe {
+    width: 560px;
+    display: block;
+    margin: 0 auto;
+}

@@ -10,28 +10,23 @@
 <section>
     <ul>
         <li><em>Professional</em><br>Jr. Web developer, Certified AT&T classroom instructor, passionate about continued professional growth.</li>
-        <li><em>Personal</em><br>Father of four, happily married, avid motorcycle rider.</li>
+        <li><em>Personal</em><br>Father of four, happily married, avid motorcycle rider and gamer.</li>
     </ul>
 </section>
 <div>
     <p align="center">I am deeply passionate about web development and design. Constantly learning and improving to provide the highest quality product.</p>
 </div>
-
-<img src="Git%20Fire.jpg">
-
-<iframe width="554" height="360" src="https://www.youtube.com/embed/kVPN0w1BWQw" frameborder="0"
-        allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>Click below for a good laugh!!!</p>
-<a href="https://www.youtube.com/watch?v=wXQUhX89vtQ">Meow</a>
-
 <div>
-    <audio controls>
-        Your browser does not support the <code>audio</code> element.
-        <source src="Star Trek TOS  Original theme.mp3">
-    </audio>
-</div>
 
+<iframe width="550" height="300" src="https://www.youtube.com/embed/h_ivgtm7mqY"></iframe>
+
+</div>
+<section>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/chris-herrera-b690a3b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkuM%2FKqOKTF6RmaRY6GqYzw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-identity_profile_photo">Linkedin</a></li>
+        <li><a href="https://github.com/Christopherjeromeherrera">GitHub</a></li>
+
+</section>
 <footer>
     Built by CJH Inc.
 </footer>
