@@ -9,7 +9,7 @@
 </header>
 <section>
     <ul>
-        <li><em>Professional</em><br>Jr. Web developer, Certified AT&T classroom instructor, passionate about continued professional growth.</li>
+        <li><em>Professional</em><br>Jr. Web developer, Certified AT&T classroom instructor. Passionate about continued professional growth.</li>
         <li><em>Personal</em><br>Father of four, happily married, avid motorcycle rider and gamer.</li>
     </ul>
 </section>
