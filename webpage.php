@@ -16,19 +16,16 @@
 <div>
     <p align="center">I am deeply passionate about web development and design. Constantly learning and improving to provide the highest quality product.</p>
 </div>
-<div>
-
-<iframe width="550" height="300" src="https://www.youtube.com/embed/h_ivgtm7mqY"></iframe>
+    <iframe width="550" height="300" src="https://www.youtube.com/embed/h_ivgtm7mqY"></iframe>
 
     <iframe width="854" height="300" src="https://www.youtube.com/embed/jSJr3dXZfcg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<div id="centerDiv">
+    <ul class="centerUL">
+        <li><a href="https://www.linkedin.com/in/chris-herrera-b690a3b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkuM%2FKqOKTF6RmaRY6GqYzw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-identity_profile_photo" style="color: chartreuse">Linkedin</></li>
+        <li><a href="https://github.com/Christopherjeromeherrera" style="color: chartreuse;">GitHub</a></li>
+    </ul>
 </div>
-<section>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/chris-herrera-b690a3b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkuM%2FKqOKTF6RmaRY6GqYzw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-identity_profile_photo">Linkedin</a></li>
-        <li><a href="https://github.com/Christopherjeromeherrera">GitHub</a></li>
 
-</section>
 <footer>
     Built by zurkis.com
 </footer>
