@@ -28,8 +28,9 @@
 
 </section>
 <footer>
-    Built by CJH Inc.
+    Built by zurkis.com
 </footer>
 
 </body>
+
 </html>
